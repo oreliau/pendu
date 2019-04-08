@@ -1,0 +1,31 @@
+/* cache les lettres */
+.hide{
+    font-size: 0px;
+}
+/* créer le trait noir pour chaque lettre */
+.blackline{
+    background-color: black;
+    height: 2px;
+}   
+
+/*Mise en page des lettre */
+.letterToGet{
+    text-align: center;
+    width: 20px;
+    margin-left: 30px;
+}
+
+/*centrer le tout */
+.wordToFind{
+    text-align: center
+}
+
+/* enlever les puces */
+ul {
+    list-style: none; 
+}
+
+/* affichage en ligne */
+ul li {
+    display: inline-block; 
+}

@@ -1,0 +1,8 @@
+/* mise en page du canvas */
+    .draw{
+        margin: 0 25% 0 25%;
+        max-height: 500px;
+        border: solid;
+        border-color: black;
+
+    }
