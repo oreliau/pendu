@@ -8,6 +8,8 @@
 
     .keyboard{
         padding: 0 50px 0 50px;
+        width: 30%;
+        margin: auto;
     }
 
 /* permet de cacher une lettre après utilisation */
