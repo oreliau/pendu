@@ -43,7 +43,7 @@
 /*responsive tablette et smartphone */
 
   /* smartphone and tablette */
-  @media screen and (min-width: 420px) and (max-width: 1030px) {
+  @media screen and (max-width: 1030px) {
     .draw{
         margin: 0;
     }
