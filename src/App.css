@@ -39,3 +39,23 @@
         height: 100vh;
         background-color: white;
     }
+
+/*responsive tablette et smartphone */
+
+  /* smartphone and tablette */
+  @media screen and (min-width: 420px) and (max-width: 1030px) {
+    .draw{
+        margin: 0;
+    }
+    ul{
+        padding: 0px;
+    }
+    .keyboard{
+        padding: 0px;
+        width: 100%;
+        margin: 0px;
+    }
+    .startBtn{
+        margin-top: 50px;
+    }
+  }
